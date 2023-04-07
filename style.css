@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+.top-header{
+    height: 40px;
+    width: 100%;
+    background-color: red;
+    text-align: right;
+ 
+   
+}
+
+.row1{
+    text-align: center;
+}
+.row3{
+    margin-top: 40px;
+}
+#regis{
+    color: white;
+    margin-right: 30%;
+}
+.carousel-inner{
+    margin-top: px;
+}
+
+
+.d-flex{
+    padding: 0% 20px;
+}
+.navbar-toggler-icon{
+   background-color: azure;
+}
+.lll{
+    text-align: center;
+    
+}
+.subirN{
+    text-align: center;
+}
